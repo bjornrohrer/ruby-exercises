@@ -10,12 +10,20 @@ end
 
 def multiply(a, b)
   # return the result of multiplying a times b
+<<<<<<< HEAD
   a * b 
+=======
+  a * b
+>>>>>>> ef79bbc831d80d23d5ec4949bcb8657efe33d61f
 end
 
 def divide(a, b)
   # return the result of dividing a by b
+<<<<<<< HEAD
   a / b 
+=======
+  a / b
+>>>>>>> ef79bbc831d80d23d5ec4949bcb8657efe33d61f
 end
 
 def remainder(a, b)
@@ -25,7 +33,11 @@ end
 
 def float_division(a, b)
   # return the result of dividing a by b as a float, rather than an integer
+<<<<<<< HEAD
   a.to_f / b.to_f 
+=======
+  a.to_f / b
+>>>>>>> ef79bbc831d80d23d5ec4949bcb8657efe33d61f
 end
 
 def string_to_number(string)
